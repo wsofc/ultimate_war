@@ -1,0 +1,1 @@
+D:\workspace\zhyz_main\Main\Client\obj\Debug\UnityVS.Client.CSharp.Plugins.csprojResolveAssemblyReference.cache

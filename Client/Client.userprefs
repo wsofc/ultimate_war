@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\GOD\Projectx_CN\Assets\BuildReport\Scripts\Editor\Util.cs">
+    <Files>
+      <File FileName="..\..\GOD\Projectx_CN\Assets\Script\Action\Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Common\NetworkManager.cs" Line="31" Column="32" />
+      <File FileName="Assets\Scripts\JxBlGame.cs" Line="51" Column="40" />
+      <File FileName="..\..\GOD\Projectx_CN\Assets\Script\MainScript.cs" Line="172" Column="18" />
+      <File FileName="..\..\GOD\Projectx_CN\Assets\Script\Misc\UpdateHelper.cs" Line="45" Column="27" />
+      <File FileName="..\..\GOD\Projectx_CN\Assets\Script\Network\Client.cs" Line="30" Column="50" />
+      <File FileName="..\..\GOD\Projectx_CN\Assets\BuildReport\Scripts\Editor\Util.cs" Line="104" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

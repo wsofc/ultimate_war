@@ -1,0 +1,7 @@
+D:\workspace\zhyz_main\Main\Client\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+D:\workspace\zhyz_main\Main\Client\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.pdb
+D:\workspace\zhyz_main\Main\Client\Temp\UnityVS_bin\Debug\HOTweenMicro.dll
+D:\workspace\zhyz_main\Main\Client\Temp\UnityVS_bin\Debug\HOTweenMicro.xml
+D:\workspace\zhyz_main\Main\Client\obj\Debug\UnityVS.Client.UnityScript.Plugins.unityprojResolveAssemblyReference.cache
+D:\workspace\zhyz_main\Main\Client\obj\Debug\Assembly-UnityScript-firstpass.dll
+D:\workspace\zhyz_main\Main\Client\obj\Debug\Assembly-UnityScript-firstpass.pdb

@@ -1,0 +1,294 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.5362]
+    Renderer: NVIDIA GeForce GTX 770
+    Vendor:   NVIDIA
+    VRAM:     1989 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Src\LastWar\Client\FF_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Src\LastWar\Client\FF_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Src\LastWar\Client\FF_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Src\LastWar\Client\FF_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Src\LastWar\Client\FF_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Src\LastWar\Client\FF_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Src\LastWar\Client\FF_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\Src\LastWar\Client\FF_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Src\LastWar\Client\FF_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Src\LastWar\Client\FF_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Src\LastWar\Client\FF_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Src\LastWar\Client\FF_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Src\LastWar\Client\FF_Data\Managed\TDGAAnalytics.dll (this message is harmless)
+Loading E:\Src\LastWar\Client\FF_Data\Managed\TDGAAnalytics.dll into Unity Child Domain
+Platform assembly: E:\Src\LastWar\Client\FF_Data\Managed\HOTweenMicro.dll (this message is harmless)
+Loading E:\Src\LastWar\Client\FF_Data\Managed\HOTweenMicro.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+Platform assembly: E:\Src\LastWar\Client\FF_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Src\LastWar\Client\FF_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: E:\Src\LastWar\Client\FF_Data\Managed\System.dll (this message is harmless)
+CreateSdkPrefab ePlatform_None
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 3.281896 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1689 unused Assets to reduce memory usage. Loaded Objects now: 6150.
+Total: 6.593133 ms (FindLiveObjects: 0.256732 ms CreateObjectMapping: 0.264067 ms MarkObjects: 4.397459 ms  DeleteObjects: 1.110062 ms)
+
+----sdk link----
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+set network ip:127.0.0.1 port:49996 type:LoginServer
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IClientSession Connect
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+can't connect, so close network.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError begin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+
+
+
+  at System.Net.Sockets.Socket.Shutdown (SocketShutdown how) [0x00000] in <filename unknown>:0 
+
+  at BlGame.Network.NetworkManager.OnConnectError (System.Object sender, SuperSocket.ClientEngine.ErrorEventArgs e) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError end
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IClientSession Connect
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+can't connect, so close network.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError begin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+
+
+
+  at System.Net.Sockets.Socket.Shutdown (SocketShutdown how) [0x00000] in <filename unknown>:0 
+
+  at BlGame.Network.NetworkManager.OnConnectError (System.Object sender, SuperSocket.ClientEngine.ErrorEventArgs e) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError end
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IClientSession Connect
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+can't connect, so close network.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError begin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+
+
+
+  at System.Net.Sockets.Socket.Shutdown (SocketShutdown how) [0x00000] in <filename unknown>:0 
+
+  at BlGame.Network.NetworkManager.OnConnectError (System.Object sender, SuperSocket.ClientEngine.ErrorEventArgs e) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError end
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IClientSession Connect
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+can't connect, so close network.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError begin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+
+
+
+  at System.Net.Sockets.Socket.Shutdown (SocketShutdown how) [0x00000] in <filename unknown>:0 
+
+  at BlGame.Network.NetworkManager.OnConnectError (System.Object sender, SuperSocket.ClientEngine.ErrorEventArgs e) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError end
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IClientSession Connect
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+can't connect, so close network.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError begin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+
+
+
+  at System.Net.Sockets.Socket.Shutdown (SocketShutdown how) [0x00000] in <filename unknown>:0 
+
+  at BlGame.Network.NetworkManager.OnConnectError (System.Object sender, SuperSocket.ClientEngine.ErrorEventArgs e) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError end
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IClientSession Connect
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+can't connect, so close network.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError begin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+
+
+
+  at System.Net.Sockets.Socket.Shutdown (SocketShutdown how) [0x00000] in <filename unknown>:0 
+
+  at BlGame.Network.NetworkManager.OnConnectError (System.Object sender, SuperSocket.ClientEngine.ErrorEventArgs e) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError end
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IClientSession Connect
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+can't connect, so close network.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError begin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+
+
+
+  at System.Net.Sockets.Socket.Shutdown (SocketShutdown how) [0x00000] in <filename unknown>:0 
+
+  at BlGame.Network.NetworkManager.OnConnectError (System.Object sender, SuperSocket.ClientEngine.ErrorEventArgs e) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError end
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IClientSession Connect
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+can't connect, so close network.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError begin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+
+
+
+  at System.Net.Sockets.Socket.Shutdown (SocketShutdown how) [0x00000] in <filename unknown>:0 
+
+  at BlGame.Network.NetworkManager.OnConnectError (System.Object sender, SuperSocket.ClientEngine.ErrorEventArgs e) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError end
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IClientSession Connect
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+can't connect, so close network.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError begin
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+System.Net.Sockets.SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+
+
+
+  at System.Net.Sockets.Socket.Shutdown (SocketShutdown how) [0x00000] in <filename unknown>:0 
+
+  at BlGame.Network.NetworkManager.OnConnectError (System.Object sender, SuperSocket.ClientEngine.ErrorEventArgs e) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectError end
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+IClientSession Connect
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+游戏退出前执行了OnAppliactionQuit
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
